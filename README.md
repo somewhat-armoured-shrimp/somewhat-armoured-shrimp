@@ -1,4 +1,4 @@
-## Hi there 👋
+## What's up guys
 
 <!--
 **somewhat-armoured-shrimp/somewhat-armoured-shrimp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ - i'm TESTING
+<div align="center">whats up dadderoo</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=somewhat-armoured-shrimp&show_icons=true&theme=radical)
