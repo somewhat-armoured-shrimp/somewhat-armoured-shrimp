@@ -2,7 +2,8 @@
 
 ### What's going on
 
- - mmm yes yes very decent 
+ - mmm yes yes very decent
+ - terribly unfinished
 <div align="center">whats up dadderoo</div>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
